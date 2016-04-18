@@ -18,7 +18,7 @@ An implementation of the 'Bayesian regression for latent source model' method fo
 
 ## Usage
 
-- Gather market data from [OKCoin Spot Price API](https://www.okcoin.com/about/rest_api.do) at the interval of every ten seconds:
+- Gather market data from the [OKCoin Spot Price API](https://www.okcoin.com/about/rest_api.do) at the interval of every ten seconds:
 
 ```sh
 $ python okcoin.py
