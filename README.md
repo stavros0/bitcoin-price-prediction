@@ -28,4 +28,4 @@ $ python okcoin.py
 
 ## License
 
-This project is licensed under the terms of the MIT license. See LICENSE for more information.
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/stavros0/bitcoin-price-prediction/blob/master/LICENSE) for more information.
